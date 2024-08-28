@@ -1,0 +1,164 @@
+{
+  "project_info": {
+    "project_number": "615794935491",
+    "firebase_url": "https://project-red-d7c73-default-rtdb.firebaseio.com",
+    "project_id": "project-red-d7c73",
+    "storage_bucket": "project-red-d7c73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615794935491:android:bbde23c396275eed904476",
+        "android_client_info": {
+          "package_name": "com.example.firebase_and_fragment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615794935491-0322aebi83omcojusqbmmeei8fkhjq2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRfIwn_l3uoGtiwU53JAbg0n9139bin4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615794935491-0322aebi83omcojusqbmmeei8fkhjq2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615794935491:android:ff803cb0fe7ad4c7904476",
+        "android_client_info": {
+          "package_name": "com.example.firebase_data_to_spinner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615794935491-0322aebi83omcojusqbmmeei8fkhjq2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRfIwn_l3uoGtiwU53JAbg0n9139bin4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615794935491-0322aebi83omcojusqbmmeei8fkhjq2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615794935491:android:258023b51ade46f7904476",
+        "android_client_info": {
+          "package_name": "com.example.multiple_file_upload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615794935491-qv73anv62i187133gbb1r2tkdt1it2mi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.multiple_file_upload",
+            "certificate_hash": "8b3077e695a68934f4751058ed52f11fdc4f193a"
+          }
+        },
+        {
+          "client_id": "615794935491-0322aebi83omcojusqbmmeei8fkhjq2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRfIwn_l3uoGtiwU53JAbg0n9139bin4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615794935491-0322aebi83omcojusqbmmeei8fkhjq2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615794935491:android:3f3af653e9eff6e4904476",
+        "android_client_info": {
+          "package_name": "com.shahbaz.uploadfilewithworkmanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615794935491-0322aebi83omcojusqbmmeei8fkhjq2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRfIwn_l3uoGtiwU53JAbg0n9139bin4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615794935491-0322aebi83omcojusqbmmeei8fkhjq2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615794935491:android:954e1a2b9ec1e1b6904476",
+        "android_client_info": {
+          "package_name": "com.shahbaz.workmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615794935491-0322aebi83omcojusqbmmeei8fkhjq2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRfIwn_l3uoGtiwU53JAbg0n9139bin4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615794935491-0322aebi83omcojusqbmmeei8fkhjq2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
